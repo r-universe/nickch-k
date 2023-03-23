@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "causaldata"]
+	path = causaldata
+	url = https://github.com/cran/causaldata
+	shallow = true
+	registered = true
 [submodule "vtable"]
 	path = vtable
 	url = https://github.com/nickch-k/vtable
