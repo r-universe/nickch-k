@@ -4,7 +4,8 @@
 	branch = HEAD
 [submodule "causaldata"]
 	path = causaldata
-	url = https://github.com/cran/causaldata
+	url = https://github.com/nickch-k/causaldata
+	subdir = R
 [submodule "vtable"]
 	path = vtable
 	url = https://github.com/nickch-k/vtable
